@@ -375,4 +375,6 @@ span{
 }
 
 
-html {}
+html, body {
+  overflow-y: auto;
+}
